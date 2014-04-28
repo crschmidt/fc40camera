@@ -1,0 +1,4 @@
+URL: /CGI/GoCloudStatus
+Login Required: Yes
+Example Response:
+<GoCloudStatus>0</GoCloudStatus>

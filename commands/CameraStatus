@@ -1,0 +1,5 @@
+URL: /CGI/CameraStatus
+Login Required: yes
+Method: GET
+Example Response: 
+<CameraStatus><RSSI>100</RSSI><Adaptor>1</Adaptor><Battery>100</Battery><OpticalZoom>1</OpticalZoom><OpticalZoomMax>1</OpticalZoomMax><DigitalZoom>1.0</DigitalZoom><DigitalZoomMax>10.0</DigitalZoomMax><LED>0</LED><Space>2174</Space><Recording>0</Recording><DirectMode>1</DirectMode><SD>1</SD><FormatStatus>1</FormatStatus><StreamType>RTP_H264_WQVGA</StreamType><RemainingTime>3016</RemainingTime><RecordingTime>0</RecordingTime><VideoResolution>1280x720</VideoResolution><PhotoResolution>1024x768</PhotoResolution><Audio>0</Audio><Inverter>1</Inverter><Loop>0</Loop><EnMotionDetection>0</EnMotionDetection><VoiceRecording>0</VoiceRecording></CameraStatus>

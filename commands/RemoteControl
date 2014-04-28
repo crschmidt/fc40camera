@@ -1,0 +1,9 @@
+URL: /CGI/RemoteControl
+Method: POST
+POST Content Examples:
+ - <RemoteControl><Action>VIDEO_STOP</Action></RemoteControl>
+ - <RemoteControl><Action>VIDEO_START</Action></RemoteControl>
+
+Responses: 
+ - <Action>VIDEO_START</Action>
+ - <Action>VIDEO_STOP</Action>

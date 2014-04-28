@@ -1,0 +1,7 @@
+URL: /CGI/CameraLogin?Device=Mobile&Stream=RTP_H264_WQVGA
+Method: POST
+Notes: Response incldues a " Set-cookie:" header with a session= key that is needed for other requests. The space means that libraries don't handle this trivially and must be handled separately. 
+Content:
+password=
+Example Response:
+<Login>Login OK</Login><CameraID>FC40_S7NO46</CameraID><HWVER>2</HWVER><FWVER>1102</FWVER><MODEL>U40_NO_CODEC</MODEL><PN>A06</PN>
